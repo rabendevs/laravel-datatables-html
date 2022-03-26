@@ -3,7 +3,7 @@
 namespace Yajra\DataTables;
 
 use Illuminate\Support\ServiceProvider;
-use Collective\Html\HtmlServiceProvider as CollectiveHtml;
+use October\Rain\Html\HtmlServiceProvider as CollectiveHtml;
 
 class HtmlServiceProvider extends ServiceProvider
 {
